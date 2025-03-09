@@ -14,3 +14,9 @@ This project aims to predict loan default risks for vehicle loans using machine 
 ✔ Improve financial decision-making through data-driven insights  
 
 🔗 **Explore the project:** https://github.com/AyushGajbhiye07/L-T-Vehicle-Loan-Default-Prediction-
+📌 Dataset Source: https://www.kaggle.com/datasets/mamtadhaker/lt-vehicle-loan-default-prediction
+
+
+
+
+
